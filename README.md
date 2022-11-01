@@ -1,6 +1,8 @@
 # tnb-bill-calculator
 > By Eyad Mohamed Ali
 
+![Picture of the program's homepage](https://i.ibb.co/KsMGqQK/Whats-App-Image-2022-11-01-at-20-39-57.jpg)
+
 ## Why?
 This is the code for a `MATLAB` assignment at my [university](https://www.ucsiuniversity.edu.my/) under the course with a code of _FAS1074_. Essentially it is an electricity bill calculator using `MATLAB`.
 
@@ -17,5 +19,5 @@ This is the code for a `MATLAB` assignment at my [university](https://www.ucsiun
 4. Congrats! the program is now running (hopefully)
 
 ## TODO
-* [ ] Make a GUI for the program
+* [x] Make a GUI for the program
 * [ ] Write a better README -_-
