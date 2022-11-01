@@ -17,5 +17,5 @@ This is the code for a `MATLAB` assignment at my [university](https://www.ucsiun
 4. Congrats! the program is now running (hopefully)
 
 ## TODO
-* [ ] Make a GUI for the program
+* [x] Make a GUI for the program
 * [ ] Write a better README -_-
