@@ -1,7 +1,7 @@
 # tnb-bill-calculator
 > By Eyad Mohamed Ali
 
-![Picture of the program's homepage](https://i.ibb.co/KsMGqQK/Whats-App-Image-2022-11-01-at-20-39-57.jpg)
+![Picture of the program's homepage](https://i.postimg.cc/7YpD753J/TNB-Receipt.jpg)
 
 ## Why?
 This is the code for a `MATLAB` assignment at my [university](https://www.ucsiuniversity.edu.my/) under the course with a code of _FAS1074_. Essentially it is an electricity bill calculator using `MATLAB`.
@@ -13,10 +13,13 @@ This is the code for a `MATLAB` assignment at my [university](https://www.ucsiun
 4. translated that plan into the language of `MATLAB`
 
 ## How to run the program
+### CLI Method
 1. Download the files in the git repo either by doing a `git-clone` or by simply downloading it as a zip file
 2. Place all the files in the same directory
 3. Open up the `MATLAB` command window, and enter the command `main` (or simply press "run" while the _main_ program is open)
 4. Congrats! the program is now running (hopefully)
+### GUI Method
+The Matlab GUI Package is already in the repository, so just install it in matlab like any other package and you are good to go
 
 ## TODO
 * [x] Make a GUI for the program
